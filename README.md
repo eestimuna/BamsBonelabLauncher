@@ -20,10 +20,12 @@
 
 Nothing else needed. You need BONELAB on Steam. Mods need MelonLoader.
 
+You only install it once: the launcher updates itself when a new version comes out (a green **Update ready** button shows in the sidebar).
+
 ## What's in it
 
 - **Home:** Play (it turns into Stop while the game runs), last played, play time, achievements, friends playing right now, BONELAB news.
-- **Mods:** every mod in your Mods folder with an on/off switch, so no more deleting files. Drag `.dll` or `.zip` files onto the window to add mods. "Mod settings" lets you change every mod's own settings.
+- **Mods:** every mod in your Mods folder with an on/off switch, so no more deleting files. Drag `.dll` or `.zip` files onto the window and they go straight into BONELAB's Mods folder. "Mod settings" lets you change every mod's own settings.
 - **Game:** mods on or off, graphics presets and custom graphics (with the Performance Plus mod), desktop window, MelonLoader options, launch options, BONELAB's own settings.
 - **Friends:** your Steam friends and who's in BONELAB. The chat button opens Steam chat.
 - **Profile:** your own card with banners (or your own GIF), frames, name styles, effects and badges. All free.
