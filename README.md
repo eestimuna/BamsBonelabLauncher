@@ -5,7 +5,7 @@
 <p align="center">A casual launcher for BONELAB on PC. Play, turn mods on and off, tweak graphics, see your friends and make your own profile card.</p>
 
 <p align="center">
-  <a href="https://github.com/eestimuna/BamsBonelabLauncher/releases/download/v1.1.0/Bams-Bonelab-Launcher-Setup-1.1.0.exe"><b>⬇ Download the setup (Windows, 1.1.0)</b></a>
+  <a href="https://github.com/eestimuna/BamsBonelabLauncher/releases/latest"><b>⬇ Download (Windows)</b></a>
   &nbsp;·&nbsp;
   <a href="https://github.com/eestimuna/BamsBonelabLauncher/releases">All versions</a>
 </p>
@@ -14,7 +14,7 @@
 
 ## Install
 
-1. Download **Bams-Bonelab-Launcher-Setup-1.1.0.exe** with the link above.
+1. Click **Download** above, then under **Assets** click the `Bams-Bonelab-Launcher-Setup` .exe.
 2. Run it. Windows may say "Windows protected your PC" because the launcher isn't from a big company: click **More info**, then **Run anyway**.
 3. Click through the installer. Open it from the desktop shortcut or the Start menu.
 
